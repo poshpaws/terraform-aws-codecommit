@@ -1,6 +1,8 @@
 # terraform-aws-codecommit-repository
 Terraform module for creating aws code commit repository
 
+Release v1.0.0
+
 The following resources will be created
 
 - codecommit repository
