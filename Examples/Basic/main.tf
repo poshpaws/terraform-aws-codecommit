@@ -8,7 +8,7 @@ module "code_commit" {
   repository_name        = "my web app"
   repository_description = "This is the my web app Repository"
 
-  create_approval_rule   = false
+  create_approval_rules   = false
 
   create_triggers        = false
 
